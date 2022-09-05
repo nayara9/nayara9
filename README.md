@@ -1,4 +1,7 @@
+![imagem](Nayara.png)
+
 ## Hello! Welcome to my Github profile
+
 
 :telescope: Programadora em formação
 
