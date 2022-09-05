@@ -1,4 +1,4 @@
-![imagem](nayara.png)
+![imagem](Nayara.png)
 
 ## Hello! Welcome to my Github profile
 
