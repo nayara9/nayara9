@@ -1,6 +1,7 @@
 ## Hello! Welcome to my Github profile
 
 :telescope: Programadora em formação
+
 :seedling: HTML, CSS, JavaScript, NodeJS, React, SQL
 
 
