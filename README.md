@@ -5,7 +5,8 @@
 :seedling: HTML, CSS, JavaScript, NodeJS, React, SQL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayara9&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara9&layout=compact&theme=cobalt_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![imagem html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
