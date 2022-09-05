@@ -1,6 +1,7 @@
 ## Hello! Welcome to my Github profile
 
-
+:telescope: Programadora em formação
+:seedling: HTML, CSS, JavaScript, NodeJS, React, SQL
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
